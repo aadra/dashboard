@@ -1,0 +1,29 @@
+body {
+  background: #e1e3de;
+}
+
+#mount-point {
+  padding: 60px;
+  max-width: 800px;
+  margin: auto;
+}
+
+#mount-point input {
+  line-height: 2;
+  font-size: 18px;
+  height: auto;
+  padding-left: 20px;
+}
+
+#mount-point ul {
+  margin: 0;
+}
+
+#mount-point ul li {
+  list-style: none;
+  border: 1px solid #ccc;
+  margin-top: -1px;
+  line-height: 2;
+  padding: 5px 20px;
+  background: white;
+}
